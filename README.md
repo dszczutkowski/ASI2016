@@ -1,7 +1,7 @@
 ### Dawid Szczutkowski
 
 1. Zaliczenie:
- - [x] [Bon Appetit - MVC](/tree/Projekt1)
+ - [x] [Bon Appetit - MVC](../Projekt1)
  - [x] [link do wdrożonej na zewnętrznym serwerze aplikacji](https://projekt-rails-davethehamster.c9users.io)
 1. Egzamin:
  - [ ] [nazwa aplikacji](egzamin)
